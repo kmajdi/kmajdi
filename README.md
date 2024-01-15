@@ -13,3 +13,4 @@ I have recently become interested in agent-based intelligent systems (i.e., Rein
 My earliest exposal to AI involved developing tic-tac-toe-playing bots. Of course, it did not have to do anything with AI but hard-coding a dozen of case-based decisions, but that was enough to build in my mind a game theory mindset of what AI is used for and how it's developed. Now that I know the alphabet of intelligence, I can proceed to look at problems like multiplayer games.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t243urb7mvyceizjc9hnurh1s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=t243urb7mvyceizjc9hnurh1s&redirect=true)
+![](./profile-3d-contrib/profile-green-animate.svg)
