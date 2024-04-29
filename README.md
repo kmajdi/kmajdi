@@ -1,6 +1,6 @@
 ## Welcome in!
 
-I'm Kia. I study Statistics at UWaterloo as a 3rd year undergrad student, and I am a research assistant at the RCS lab at UWaterloo. My current research is about predicting the failure of hard drives, and for achieving that, my work involves topics in:
+I'm Kia. I study Statistics at UWaterloo as a 4th year undergrad student, and I am a research assistant at the RCS lab at UWaterloo. My current research is about predicting the failure of hard drives, and for achieving that, my work involves topics in:
 
 - explorative data analysis
 - data visualization
